@@ -12,9 +12,9 @@ Un simple ejercicio de ReactJS sin utilizar NodeJS (excluding)
 Utiliza la librería Babel
 ```html
 <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
-```html
+```
 
 para interpretar desde el navegador el código JSX 
-```babel
+```javascript
 <HelloMessage name="Uneatlántico" />
-```babel
+```
